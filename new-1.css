@@ -1,0 +1,29 @@
+body {
+  background: #5c5c5c ;
+}
+h3 { 
+  color: white;
+}
+h1 {
+  color: white;
+}
+}
+p {  color: white; }
+
+ol { 
+  color: white;
+}
+.yeet{
+  color: rgb(195,230,255);
+} 
+.green{
+  color: rgb(171,255,166);
+} 
+img {
+  width: 500px;
+  border-color:aqua;
+  border-style: ridge;
+  border-width: 7px;
+}
+.yellow{
+  color: #f6ff96
